@@ -1,0 +1,35 @@
+What you know 
+Which of the following is NOT a primitive JavaScript data type?
+A JavaScript operator is similar to a:
+What do the expressions 1 == true and 1 === true return?
+True AND False results in:
+Why does “2” + 3 return “23”?
+In JavaScript, functions attached to objects are called:
+Function A declares variable X and function B. Can function B access variable X?
+In JavaScript, scopes are created by:
+Which of the following statements about the 'this' keyword is NOT correct?
+DOM events are processed when:
+A JavaScript function is an object:
+Suppose we create a new array. Why can the array use the map method?
+What is the difference between the map and forEach Array methods?
+What is a callback function?
+An Immediately Invoked Function Expression:
+In the module pattern, why can public methods access private functions and variables?
+ 
+ 
+ 
+What you should review
+A is true and B is false. What does the following expression return? (Remember that the parentheses are evaluated first). !(A || !B) && (A && !B && A) || (A || B)
+In the browser, the global execution context is:
+Can we call the function expressions A at line 126 in our code if A is declared in line 253?
+Thanks to hoisting:
+What is NOT true about anonymous functions?
+What is NOT true about event delegation?
+Why do we need the event object for handling keyboard events?
+Suppose we create two new objects using a function constructor. How can we allow both objects to have access to a new method that we want create?
+What does the ‘new’ operator NOT do?
+Consider object A = object B. By mutating property X on A, X on B will:
+Function A declares variable X and returns function B. Can function B access variable X?
+Why is the call method useful for method borrowing?
+Which of the following methods creates a new function with preset arguments?
+Which declaration is NOT true about encapsulation?
